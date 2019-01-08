@@ -1,0 +1,4 @@
+Name,Netzgebiet,Regelzone,Staat,Ebene [kV],V_min [kV],V_max [kV],X,Y,Width,Height,Color,LineColor,Lat,Lon,Alt
+bus1,1,1,Karlsruhe_Mitte,20,19,21,5.00000,6.00000,200,10,FFA07A,FF4500,1,1,1
+bus2,2,2,Karlsruhe_Mitte,20,20,22,7.00000,8.00000,300,20,FFD700,262C7D,2,2,2
+bus3,3,3,Karlsruhe_Mitte,20,21,23,9.00000,10.00000,400,30,4AA921,ECEC0D,3,3,3
